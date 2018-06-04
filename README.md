@@ -3,7 +3,7 @@
 **Your mission:**
 First read this file completely!!! 
 
-Second, write a simple website, which fetches product information out of a MySQL database, presents it to the user and make it possible to change the product name.
+Second, write a simple website, which fetches product information out of a MySQL database, presents it to the user and makes it possible to change the product name.
 
 The database dump can be found on git, be aware that an unconcentrated intern might have added some syntactic mistakes. 
 
