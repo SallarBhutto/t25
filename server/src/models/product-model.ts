@@ -1,1 +1,1 @@
-//cc
+//product model needs to be created
