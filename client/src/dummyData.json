@@ -1,0 +1,446 @@
+[
+	{
+		"product_id" : 2426,
+		"string" : "Waschsauger Puzzi ",
+		"product_name" : "8/1 C",
+		"product_number" : "11002250"
+	},
+	{
+		"product_id" : 3278,
+		"string" : "Soft Surface Wash Brush ",
+		"product_name" : "WB60",
+		"product_number" : "26432330"
+	},
+	{
+		"product_id" : 3257,
+		"string" : "Dampfreiniger",
+		"product_name" : "SC 2500 C",
+		"product_number" : "15123500"
+	},
+	{
+		"product_id" : 3258,
+		"string" : "Dampfreiniger",
+		"product_name" : "SC 2600 CB",
+		"product_number" : "15123610"
+	},
+	{
+		"product_id" : 3231,
+		"string" : "T-Racer ",
+		"product_name" : "T 450",
+		"product_number" : "26432140"
+	},
+	{
+		"product_id" : 2902,
+		"string" : "Ice Blaster ",
+		"product_name" : "IB 15/120",
+		"product_number" : "15741040"
+	},
+	{
+		"product_id" : 3191,
+		"string" : " Basic",
+		"product_name" : "WPD 100",
+		"product_number" : "1.024-920.2"
+	},
+	{
+		"product_id" : 783,
+		"string" : "ThinkCentre ",
+		"product_name" : "Tiny-in-One 23",
+		"product_number" : "10DQPAT6**"
+	},
+	{
+		"product_id" : 3779,
+		"string" : "Fine Point Marker",
+		"product_name" : "INKZALL",
+		"product_number" : "48-22-3100"
+	},
+	{
+		"product_id" : 3780,
+		"string" : "Stylus & Black Marker",
+		"product_name" : "INKZALL",
+		"product_number" : "48-22-3101"
+	},
+	{
+		"product_id" : 3782,
+		"string" : "Chisel Point Marker",
+		"product_name" : "INKZALL",
+		"product_number" : "48-22-3103"
+	},
+	{
+		"product_id" : 3781,
+		"string" : "Medium Point Marker",
+		"product_name" : "INKZALL",
+		"product_number" : "48-22-3102"
+	},
+	{
+		"product_id" : 3776,
+		"string" : "Work Box",
+		"product_name" : "Jobsite 48-22-8020 ",
+		"product_number" : "48-22-8020"
+	},
+	{
+		"product_id" : 3535,
+		"string" : "Knife",
+		"product_name" : "48-22-1985 FASTBACK",
+		"product_number" : "48-22-1985"
+	},
+	{
+		"product_id" : 3533,
+		"string" : "Knife",
+		"product_name" : "48-22-1902 FASTBACK",
+		"product_number" : "48-22-1902"
+	},
+	{
+		"product_id" : 3537,
+		"string" : "Knife",
+		"product_name" : "48-22-1990 FASTBACK",
+		"product_number" : "48-22-1990"
+	},
+	{
+		"product_id" : 3521,
+		"string" : "Wet Dry Vacuum",
+		"product_name" : "Heavy Duty 7.5 L",
+		"product_number" : "0880"
+	},
+	{
+		"product_id" : 3508,
+		"string" : "Cordless High Performance Jig Saw",
+		"product_name" : "M12 High",
+		"product_number" : "2445"
+	},
+	{
+		"product_id" : 1881,
+		"string" : "Tape",
+		"product_name" : "48-22-5525",
+		"product_number" : "48-22-5525"
+	},
+	{
+		"product_id" : 1883,
+		"string" : "Tape",
+		"product_name" : "48-22-5117",
+		"product_number" : "48-22-5117"
+	},
+	{
+		"product_id" : 1882,
+		"string" : "Tape",
+		"product_name" : "48-22-5516",
+		"product_number" : "48-22-5516"
+	},
+	{
+		"product_id" : 1880,
+		"string" : "Tape ",
+		"product_name" : "48-22-5126",
+		"product_number" : "48-22-5126"
+	},
+	{
+		"product_id" : 3408,
+		"string" : "Switchblade Selfeed Bit",
+		"product_name" : "48-25-5143",
+		"product_number" : "48-25-5143"
+	},
+	{
+		"product_id" : 3404,
+		"string" : "Switchblade Selfeed Bit",
+		"product_name" : "48-25-5120",
+		"product_number" : "48-25-5120"
+	},
+	{
+		"product_id" : 3407,
+		"string" : "Switchblade Selfeed Bit",
+		"product_name" : "48-25-5140",
+		"product_number" : "48-25-5140"
+	},
+	{
+		"product_id" : 3406,
+		"string" : "Switchblade Selfeed Bit",
+		"product_name" : "48-25-5135",
+		"product_number" : "48-25-5135"
+	},
+	{
+		"product_id" : 3790,
+		"string" : "Locking C-Clamp",
+		"product_name" : "48-22-3521 Torque Lock",
+		"product_number" : "48-22-3521"
+	},
+	{
+		"product_id" : 3793,
+		"string" : "Locking C-Clamp",
+		"product_name" : "48-22-3532 Torque Lock",
+		"product_number" : "48-22-3532"
+	},
+	{
+		"product_id" : 3791,
+		"string" : "Locking C-Clamp",
+		"product_name" : "48-22-3522 Torque Lock",
+		"product_number" : "48-22-3522"
+	},
+	{
+		"product_id" : 3792,
+		"string" : "Locking C-Clamp",
+		"product_name" : "48-22-3531 Torque Lock",
+		"product_number" : "48-22-3531"
+	},
+	{
+		"product_id" : 3783,
+		"string" : "Electrician Work Pouch",
+		"product_name" : "48-22-8100",
+		"product_number" : "48-22-8100"
+	},
+	{
+		"product_id" : 3785,
+		"string" : "Zipper Pouch",
+		"product_name" : "48 22 8180",
+		"product_number" : "48 22 8180"
+	},
+	{
+		"product_id" : 1927,
+		"string" : "Work Belt",
+		"product_name" : "48-22-8110",
+		"product_number" : "48-22-8110"
+	},
+	{
+		"product_id" : 3784,
+		"string" : "Contractor Work Belt",
+		"product_name" : "48-22-8120",
+		"product_number" : "48-22-8120"
+	},
+	{
+		"product_id" : 3405,
+		"string" : "Switchblade Selfeed Bit",
+		"product_name" : "48-25-5125",
+		"product_number" : "48-25-5125"
+	},
+	{
+		"product_id" : 3355,
+		"string" : "Grout Removal",
+		"product_name" : "49-00-5450",
+		"product_number" : "49-00-5450"
+	},
+	{
+		"product_id" : 3353,
+		"string" : "Big Hawg",
+		"product_name" : "49-56-9080",
+		"product_number" : "49-56-9080"
+	},
+	{
+		"product_id" : 3352,
+		"string" : "Big Hawg",
+		"product_name" : "49-56-9075",
+		"product_number" : "49-56-9075"
+	},
+	{
+		"product_id" : 3325,
+		"string" : "Drywall Access SAWZALL Blade 9",
+		"product_name" : "48-00-1304",
+		"product_number" : "48-00-1304"
+	},
+	{
+		"product_id" : 3333,
+		"string" : "Drywall Access SAWZALL Blade",
+		"product_name" : "48-00-1600",
+		"product_number" : "48-00-1600"
+	},
+	{
+		"product_id" : 3328,
+		"string" : "Drywall Access SAWZALL Blade 6",
+		"product_name" : "48-00-1421",
+		"product_number" : "48-00-1421"
+	},
+	{
+		"product_id" : 3330,
+		"string" : "Drywall Access SAWZALL Blade 9",
+		"product_name" : "48-00-1431",
+		"product_number" : "48-00-1431"
+	},
+	{
+		"product_id" : 3341,
+		"string" : "Drywall Access SAWZALL Blade 5",
+		"product_name" : "48-00-5052",
+		"product_number" : "48-00-5052"
+	},
+	{
+		"product_id" : 3331,
+		"string" : "Drywall Access SAWZALL Blade 6",
+		"product_name" : "48-00-1440",
+		"product_number" : "48-00-1440"
+	},
+	{
+		"product_id" : 3343,
+		"string" : "Drywall Access SAWZALL Blade 3-5/8",
+		"product_name" : "48-00-5161",
+		"product_number" : "48-00-5161"
+	},
+	{
+		"product_id" : 3339,
+		"string" : "Drywall Access SAWZALL Blade 12",
+		"product_name" : "48-00-5017",
+		"product_number" : "48-00-5017"
+	},
+	{
+		"product_id" : 3335,
+		"string" : "Drywall Access SAWZALL Blade",
+		"product_name" : "48-00-1630",
+		"product_number" : "48-00-1630"
+	},
+	{
+		"product_id" : 3336,
+		"string" : "Drywall Access SAWZALL Blade 2-1/2",
+		"product_name" : "48-00-1640",
+		"product_number" : "48-00-1640"
+	},
+	{
+		"product_id" : 3334,
+		"string" : "Drywall Access SAWZALL Blade",
+		"product_name" : "48-00-1610",
+		"product_number" : "48-00-1610"
+	},
+	{
+		"product_id" : 3344,
+		"string" : "Drywall Access SAWZALL Blade 3-5/8",
+		"product_name" : "48-00-5162",
+		"product_number" : "48-00-5162"
+	},
+	{
+		"product_id" : 3340,
+		"string" : "Drywall Access SAWZALL Blade 6",
+		"product_name" : "48-00-5041",
+		"product_number" : "48-00-5041"
+	},
+	{
+		"product_id" : 3347,
+		"string" : "Drywall Access SAWZALL Blade 9",
+		"product_name" : "48-01-6430",
+		"product_number" : "48-01-6430"
+	},
+	{
+		"product_id" : 3349,
+		"string" : "Drywall Access SAWZALL Blade",
+		"product_name" : "48-01-7016",
+		"product_number" : "48-01-7016"
+	},
+	{
+		"product_id" : 3346,
+		"string" : "Drywall Access SAWZALL Blade 6",
+		"product_name" : "48-01-6420",
+		"product_number" : "48-01-6420"
+	},
+	{
+		"product_id" : 3348,
+		"string" : "Drywall Access SAWZALL Blade",
+		"product_name" : "48-01-7015",
+		"product_number" : "48-01-7015"
+	},
+	{
+		"product_id" : 3326,
+		"string" : "Drywall Access SAWZALL Blade 12",
+		"product_name" : "48-00-1305",
+		"product_number" : "48-00-1305"
+	},
+	{
+		"product_id" : 3337,
+		"string" : "Drywall Access SAWZALL Blade 6",
+		"product_name" : "48-00-5015",
+		"product_number" : "48-00-5015"
+	},
+	{
+		"product_id" : 3345,
+		"string" : "Drywall Access SAWZALL Blade 3-5/8",
+		"product_name" : "48-00-5163",
+		"product_number" : "48-00-5163"
+	},
+	{
+		"product_id" : 3488,
+		"string" : "Battery Charger",
+		"product_name" : "M12 48-59-2401",
+		"product_number" : "48-59-2401"
+	},
+	{
+		"product_id" : 3487,
+		"string" : "Sequential Charger",
+		"product_name" : "M12 48-59-1204",
+		"product_number" : "48-59-1204"
+	},
+	{
+		"product_id" : 1698,
+		"string" : "Spray Lance",
+		"product_name" : "Classic",
+		"product_number" : "18332"
+	},
+	{
+		"product_id" : 1676,
+		"string" : "Branch Pruner",
+		"product_name" : "Combisystem",
+		"product_number" : "298"
+	},
+	{
+		"product_id" : 1697,
+		"string" : "Multi Sprayer",
+		"product_name" : "Classic ",
+		"product_number" : "18313"
+	},
+	{
+		"product_id" : 2196,
+		"string" : "Wand-Schlauchbox",
+		"product_name" : "15",
+		"product_number" : "8015"
+	},
+	{
+		"product_id" : 1667,
+		"string" : "Wand-Schlauchbox",
+		"product_name" : "35",
+		"product_number" : "8025"
+	},
+	{
+		"product_id" : 398,
+		"string" : "Water Computer",
+		"product_name" : "FlexControl",
+		"product_number" : "1883"
+	},
+	{
+		"product_id" : 1715,
+		"string" : "Allzweckschere",
+		"product_name" : "Classic",
+		"product_number" : "8759"
+	},
+	{
+		"product_id" : 1714,
+		"string" : "Rebenschere",
+		"product_name" : "Classic ",
+		"product_number" : "8757"
+	},
+	{
+		"product_id" : 1728,
+		"string" : "Grass Shears",
+		"product_name" : "Comfort ",
+		"product_number" : "8733"
+	},
+	{
+		"product_id" : 1727,
+		"string" : "Gartenschere",
+		"product_name" : "Comfort",
+		"product_number" : "8790"
+	},
+	{
+		"product_id" : 1905,
+		"string" : " ",
+		"product_name" : "M12 JSSP",
+		"product_number" : "M12 JSSP"
+	},
+	{
+		"product_id" : 1885,
+		"string" : "Sawzall",
+		"product_name" : "M18",
+		"product_number" : "2621"
+	},
+	{
+		"product_id" : 1726,
+		"string" : "Boxwood Secateurs",
+		"product_name" : "Comfort ",
+		"product_number" : "00399"
+	},
+	{
+		"product_id" : 414,
+		"string" : "Terrace Broom",
+		"product_name" : "Combisystem 3160",
+		"product_number" : "3160"
+	}
+]
