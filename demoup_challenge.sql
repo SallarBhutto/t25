@@ -1,14 +1,14 @@
 DROP TABLE IF EXISTS `product_i18n`;
 
 CREATE TABLE `product_i18n` (
-  `product_i18n_id` bigint(20) NOT NULL AUTO_INCREMENT,
-  `product_id` bigint(20) DEFAULT NULL,
+  `product_i18n_id` int(20) NOT NULL AUTO_INCREMENT,
+  `product_id` int(20) DEFAULT NULL,
   `string` varchar(100) DEFAULT NULL,
   PRIMARY KEY (`product_i18n_id`),
   KEY `product_id` (`product_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
-INSERT IN `product_i18n` (`product_i18n_id`, `product_id`, `string`)
+INSERT INTO `product_i18n` (`product_i18n_id`, `product_id`, `string`)
 VALUES
 	(17292,593,'Schlaganker'),
 	(17938,220,'Rasenmäher'),
@@ -41,7 +41,7 @@ VALUES
 	(18633,3869,'fixed frame screen'),
 	(18634,3868,'Luxus Line'),
 	(18635,3868,'designer screens'),
-	(18699,201,'Akku-Formschneider),
+	(18699,201,'Akku-Formschneider'),
 	(18700,201,'Cordless Hedge-Shrub Shaper'),
 	(18981,719,'Ergo Tool Managment System'),
 	(19241,2064,'Stand'),
@@ -209,7 +209,7 @@ VALUES
 	(158117,3776,'alet kutusu'),
 	(158118,3776,'针线'),
 	(158119,3776,'Werkzeugbox'),
-	(158352,3542,'25\' Magnetic Tape Measure'),
+	(158352,3542,'25\" Magnetic Tape Measure'),
 	(158353,3535,'Knife'),
 	(158354,3533,'Knife'),
 	(158355,3537,'Knife'),
@@ -292,7 +292,7 @@ VALUES
 	(173506,1697,'Multisprøjtepistol'),
 	(173507,1697,'Multifunktsionaalne kastmispüstol 3 veejoaga'),
 	(173508,1697,'Kastelupistooli'),
-	(173509,1697,'Pistolet d\'arrosage multi-applications'),
+	(173509,1697,'Pistolet d\"arrosage multi-applications'),
 	(173510,1697,'Többfunkciós öntözőfej'),
 	(173511,1697,'Lancia a doccia multifunzione'),
 	(173512,1697,'Laistīšanas pistole'),
@@ -350,7 +350,7 @@ VALUES
 	(173585,398,'Vandingscomputeren '),
 	(173586,398,'Kastmistaimer'),
 	(173587,398,'Kastelunajastin '),
-	(173588,398,'Programmateur d\'arrosage '),
+	(173588,398,'Programmateur d\" arrosage '),
 	(173589,398,'Öntözőkomputer '),
 	(173590,398,'Computer per irrigazione'),
 	(173591,398,'Apūdeņošanas dators '),
@@ -431,7 +431,7 @@ VALUES
 	(221335,414,'Szczotka do zamiatania tarasów'),
 	(221336,414,'Perie terasa '),
 	(221337,414,'Щетка для террас'),
-	(221338,414,Zmeták na terasy'),
+	(221338,414,'Zmeták na terasy'),
 	(221339,414,'Metla za terase'),
 	(221340,414,'Escoba de exteriores '),
 	(221341,414,'庭院扫把头');
@@ -448,7 +448,7 @@ CREATE TABLE `product_name` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 
-INSERT IN `product_name` (`product_id`, `product_name`, `product_name_id`)
+INSERT INTO `product_name` (`product_id`, `product_name`, `product_name_id`)
 VALUES
 	(4,'Classic Messenger Bag Medium',2),
 	(5,'Classic Messenger Bag X-Small',3),
@@ -2507,7 +2507,7 @@ CREATE TABLE `product_number` (
   UNIQUE KEY `unique_product` (`product_id`,`product_number`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
-INSERT IN `product_number` (`product_id`, `product_number`, `product_number_id`)
+INSERT INTO `product_number` (`product_id`, `product_number`, `product_number_id`)
 VALUES
 	(233,'3413060',67164),
 	(291,'4513602',172),
@@ -3172,7 +3172,7 @@ VALUES
 	(3783,'48228100',55518),
 	(3784,'48-22-8120',55523),
 	(3784,'48228120',55524),
-	3785,'48 22 8180',55519),
+	(3785,'48 22 8180',55519),
 	(3785,'48228180',55520),
 	(3790,'48-22-3521',55506),
 	(3790,'48223521',55507),
